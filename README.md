@@ -23,7 +23,7 @@ Cooming soon!
 
 <!-- TERMINAL CHAPTER START -->
 # Terminal
-### Shell: [zsh](https://github.com/zsh-users/zsh)
+### Shell: [zsh](https://zsh.sourceforge.io/)
 
   ZSH is my choice for all unix-like OS I use, it's quite similar to BASH but has some features that make it better and more advanced than Bourne Again Shell.
   
