@@ -21,4 +21,15 @@ Cooming soon!
 
 </details>
 
-## Terminal
+<!-- TERMINAL CHAPTER START -->
+# Terminal
+### Shell: [zsh](https://github.com/zsh-users/zsh)
+
+  ZSH is my choice for all unix-like OS I use, it's quite similar to BASH but has some features that make it better and more advanced than Bourne Again Shell.
+  
+  Installation guide: [Arch wiki](https://wiki.archlinux.org/title/zsh) <br/>
+  Useful stuff: 
+  * [zsh-authocomplete](https://github.com/marlonrichert/zsh-autocomplete) - Autocomplete for Zsh adds real-time type-ahead autocompletion to Zsh.
+
+### Terminal emulator: 
+<!-- TERMINAL CHAPTER END -->
