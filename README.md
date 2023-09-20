@@ -25,11 +25,14 @@ Cooming soon!
 # Terminal
 ### Shell: [zsh](https://zsh.sourceforge.io/)
 
-  ZSH is my choice for all unix-like OS I use, it's quite similar to BASH but has some features that make it better and more advanced than Bourne Again Shell.
+  ZSH is my choice for all unix-like OS I use. It's quite similar to BASH but faster, more customizable and has some improvements (like tab completion, globbing) that make it better and more advanced than Bourne Again Shell.
   
-  Installation guide: [Arch wiki](https://wiki.archlinux.org/title/zsh) <br/>
-  Useful stuff: 
-  * [zsh-authocomplete](https://github.com/marlonrichert/zsh-autocomplete) - Autocomplete for Zsh adds real-time type-ahead autocompletion to Zsh.
+  Installation guide & tips: [Arch wiki](https://wiki.archlinux.org/title/zsh)
 
-### Terminal emulator: 
+### Terminal emulator: [kitty](https://sw.kovidgoyal.net/kitty/)
+
+  I used [Alacritty](https://alacritty.org/) as my main terminal emulator for a long time and I highly recommend to give it a try (if you are not afraid of terminal multiplexers e.g tmux etc.). Alacritty and kitty have their pros and cons, but in general, Kitty is more suitable for beginners and comes with tabs, split feature, kittens, while Alacritty is a very fast and lightweight emulator that can be difficult for beginners to explore all its advantages.
+
+  Installation guide & tips: [Arch wiki](https://wiki.archlinux.org/title/kitty)
+ 
 <!-- TERMINAL CHAPTER END -->
